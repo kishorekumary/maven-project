@@ -1,1 +1,1 @@
-To trigger using github hooks
+To trigger using github hook
